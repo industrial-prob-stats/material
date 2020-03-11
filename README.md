@@ -5,11 +5,11 @@
 
 _Libros_
 ##### Programación en R
-* [El arte de Programar en R - Santana J.S & Farfán E.M] (https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
-* [Manual de R - Hernández F & Usuga O.] (https://fhernanb.github.io/Manual-de-R/)
+* [El arte de Programar en R - Santana J.S & Farfán E.M](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
+* [Manual de R - Hernández F & Usuga O.](https://fhernanb.github.io/Manual-de-R/)
 
 ##### Estadística con R
-* [Applied Statistics with R - David Dalpiaz ] (https://daviddalpiaz.github.io/appliedstats/)
+* [Applied Statistics with R - David Dalpiaz ](https://daviddalpiaz.github.io/appliedstats/)
 
 # _Guías de Problemas_
 ### Guía 1 
