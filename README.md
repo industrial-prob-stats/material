@@ -16,6 +16,6 @@ https://daviddalpiaz.github.io/appliedstats/
 
 _Guías de Problemas_
 ### Guía 1 
-[..* Consignas](https://github.com/industrial-prob-stats/material/blob/master/guia1.pdf)
-[..* Resueltos](https://github.com/industrial-prob-stats/material/blob/master/guia_1Resuelta.pdf)
+[* Consignas](https://github.com/industrial-prob-stats/material/blob/master/guia1.pdf)
+[* Resueltos](https://github.com/industrial-prob-stats/material/blob/master/guia_1Resuelta.pdf)
 
