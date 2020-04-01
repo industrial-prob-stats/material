@@ -17,5 +17,6 @@ _Libros_
 * [Resueltos](https://github.com/industrial-prob-stats/material/blob/master/guia_1Resuelta.pdf)
 
 ### Guía: Variables Aleatorias
-
+#### _Importante: VER LOS VIDEOS EN ORDEN_
+* [Videos] (https://www.youtube.com/watch?v=CCxVQeVijYo&list=PLNwm0SNfmJPjdkSehOLHPjr3ID2161Er8)
 
