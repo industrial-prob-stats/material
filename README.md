@@ -18,5 +18,5 @@ _Libros_
 
 ### Guía: Variables Aleatorias
 #### _Importante: VER LOS VIDEOS EN ORDEN_
-* [Videos] (https://www.youtube.com/watch?v=CCxVQeVijYo&list=PLNwm0SNfmJPjdkSehOLHPjr3ID2161Er8)
+* [Videos](https://www.youtube.com/watch?v=CCxVQeVijYo&list=PLNwm0SNfmJPjdkSehOLHPjr3ID2161Er8)
 
